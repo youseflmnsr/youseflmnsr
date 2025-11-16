@@ -77,5 +77,14 @@ Every week I break something in my lab, fix it, understand it, and document it.
 
 ## 📫 Connect With Me
 
-<p 
+<p>
+
+<a href="mailto:yousefalmansour500@gmail.com" style="font-size: 2rem; text-decoration: none; color: #007bff;">
+  📧
+</a>
+
+
+
+
+</p>
 

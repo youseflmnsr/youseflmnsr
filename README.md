@@ -67,7 +67,7 @@ Every week I break something in my lab, fix it, understand it, and document it.
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOURUSERNAME)
 
-[![Follow My Journey](https://img.shields.io/badge/My_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
+[![Follow My Journey](https://img.shields.io/badge/My_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youseflmnsr)
 
 
 

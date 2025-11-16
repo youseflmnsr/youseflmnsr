@@ -5,8 +5,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Blue%20Team-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TryHackMe-Blue%20Path-red?style=for-the-badge&logo=tryhackme" />
-  <img src="https://img.shields.io/badge/Goal-Blue%20Team%20Expert%20(12%20Months)-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TryHackMe-Blue%20Path-blue?style=for-the-badge&logo=tryhackme" />
+  <img src="https://img.shields.io/badge/Goal-Blue%20Team%20Expert%20(12%20Months)-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -64,17 +64,6 @@ Every week I break something in my lab, fix it, understand it, and document it.
 
 </p>
 
-[![Windows Security](https://img.shields.io/badge/Windows_Security-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
-
-[![Linux Security](https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-
-[![Virtualization](https://img.shields.io/badge/Virtualization-0078D4?style=for-the-badge&logo=virtualbox&logoColor=white)](#)
-
-[![SIEM](https://img.shields.io/badge/SIEM-4A4A55?style=for-the-badge&logo=elastic&logoColor=white)](#)
-
-[![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](#)
-
-[![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)](#)
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOURUSERNAME)
 
